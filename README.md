@@ -1,4 +1,4 @@
-# Web online store Android application
+# Web bidding store Android application
 
 Implements an Android mobile application for mini eBay. The mini ebay repository includes the backend containing Servlets, classes, and a central database. The mobile application communicates with the backend via http (JSON).
 
